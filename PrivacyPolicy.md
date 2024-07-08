@@ -2,9 +2,11 @@
 
 ## This document is required for Play Store submittion... 
 
+
 ### Data Collection:
 - No personal data is collected or stored by the app.
 - No personal data is used or viewed by the app.
+
 
 ### Permissions:
 The following permissions are utilized by the app. Most are accepted and accessed automatically however some high level permissions may have to be accepted by the user. Not granting these may block features and cause issues in app functionallity, however we have worked hard to make sure it causes no issues. 
@@ -16,6 +18,7 @@ The following permissions are utilized by the app. Most are accepted and accesse
 - "android.permission.POST_NOTIFICATIONS" = This permission is used to create and manage notifications in android versions 13 and up (API level 33 and newer), the permission has to be granted manually by you either in your phones settings or through the in app popup that will appear when trying to turn on notifications in the app settings. The permission can also be revoked through a simular method in the phones settings. If your device is android 12 or older this permission won't apply for you.
 
 - The app DOES NOT read any data from your device other than the app data. The app data includes the app itself and any shared preference files created by the app/user.
+
 
 ### Links/Developer Contact
 - For Questions/Inquireies, Contact us at one of these emails = mainsoftworks@gmail.com *or* devjoshu13@gmail.com
